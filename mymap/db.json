@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "name": "Gyumri",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    { "type": "Feature", "properties": { "Name": "Vartanants Square", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8416164, 40.785183 ] } },
+    { "type": "Feature", "properties": { "Name": "Holy Saviour's Church\n", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8411971, 40.7840862 ] } },
+    { "type": "Feature", "properties": { "Name": "Yot Verk Church", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8423011, 40.7861048 ] } },
+    { "type": "Feature", "properties": { "Name": "Black Fortress", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8253236, 40.7824713 ] } },
+    { "type": "Feature", "properties": { "Name": "Mother Armenia", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8247741, 40.7805008 ] } },
+    { "type": "Feature", "properties": { "Name": "WWII Memorial\n", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8251119, 40.7808083 ] } },
+    { "type": "Feature", "properties": { "Name": "Gyumri Shuka Market\n", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8433239, 40.7817844 ] } },
+    { "type": "Feature", "properties": { "Name": "Rijkov Street", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8446633, 40.7873466 ] } },
+    { "type": "Feature", "properties": { "Name": "Abovyan Street", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8411963, 40.7875056 ] } },
+    { "type": "Feature", "properties": { "Name": "Jivani Street", "description": "Nice architecture" }, "geometry": { "type": "Point", "coordinates": [ 43.8380138, 40.7867564 ] } },
+    { "type": "Feature", "properties": { "Name": "Old Brewery\n", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8379569, 40.7884217 ] } },
+    { "type": "Feature", "properties": { "Name": "Old hospital ruins", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.835339400000102, 40.7883692 ] } },
+    { "type": "Feature", "properties": { "Name": "The Iron Fountain", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.849822200000098, 40.8156392 ] } },
+    { "type": "Feature", "properties": { "Name": "The Gallery of Mariam and Eranuhi Aslamazyan Sister", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8409947, 40.7863194 ] } },
+    { "type": "Feature", "properties": { "Name": "Mher Mkrtchyan Museum", "description": "Plus ceramics studio" }, "geometry": { "type": "Point", "coordinates": [ 43.8427197, 40.7887797 ] } },
+    { "type": "Feature", "properties": { "Name": "Museum of National Architecture and Urban Life", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8455484, 40.781447 ] } },
+    { "type": "Feature", "properties": { "Name": "Ponchik Monchik", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8464193, 40.789941 ] } },
+    { "type": "Feature", "properties": { "Name": "Aregak Bakery and Café", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.84089, 40.7863311 ] } },
+    { "type": "Feature", "properties": { "Name": "Gyumri's Fish Restaurant (Cherkezi Dzor)", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.827906799999901, 40.7975754 ] } },
+    { "type": "Feature", "properties": { "Name": "Florence Gyumri", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8383851, 40.78781 ] } },
+    { "type": "Feature", "properties": { "Name": "Kilikia Bistro", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8465113, 40.7959147 ] } },
+    { "type": "Feature", "properties": { "Name": "Herbs & Honey", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8435491, 40.7862282 ] } },
+    { "type": "Feature", "properties": { "Name": "Gyumri Bus Station", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.841671899999902, 40.7786139 ] } },
+    { "type": "Feature", "properties": { "Name": "Gyumri Railway Station", "description": null }, "geometry": { "type": "Point", "coordinates": [ 43.8594604, 40.7881817 ] } }
+  ]
+}
